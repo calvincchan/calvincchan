@@ -1,4 +1,4 @@
-Hello, I am Calvin Chan. This git maintains my latest resume and demo projects for evaluation purpose. Please check them out and you are welcome to contact me at [my email](hello@calvin-c.com).
+Hello, I am Calvin C. Chan. This git maintains my latest resume and demo projects for evaluation purpose. Please check them out and you are welcome to contact me at hello@calvin-c.com.
 
 Resume:
 - [Latest Resume (2023-Feb)](./Resume-Calvin-Chun-yu-Chan-202302.pdf)
