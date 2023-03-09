@@ -6,5 +6,6 @@ Resume:
 Projects:
 - [Moneybook API Server](https://github.com/calvincchan/money-book-api)
 - [Moneybook frontend](https://github.com/calvincchan/money-book-webapp)
+- [Lambda function to invoke server side Stripe charge request](https://github.com/calvincchan/stripe-charge)
 
-Last updated: 2023-Feb-8
+Last updated: 2023-Mar-9
