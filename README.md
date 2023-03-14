@@ -1,6 +1,5 @@
-<p align="center"><img height="120" src="./calvincchan.png" alt="calvin-c-chan avatar" /></p>
-
-Hello, I am Calvin C. Chan. This git maintains my latest resume and demo projects for evaluation purpose. Please check them out and you are welcome to contact me at hello@calvin-c.com.
+# Hello, I am Calvin C. Chan.
+This git maintains my latest resume and demo projects for evaluation purpose.
 
 Resume:
 - [Latest Resume (2023-Mar)](./Resume-Calvin-Chun-yu-Chan-202303.pdf)
