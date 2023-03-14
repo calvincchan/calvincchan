@@ -1,4 +1,4 @@
-<p align="center"><img height="120" src="./calvincchan.png" alt="calvin c chan avatar" style="border-radius:30px" /></p>
+<p align="center"><img height="120" src="./calvincchan.png" alt="calvin-c-chan avatar" /></p>
 
 Hello, I am Calvin C. Chan. This git maintains my latest resume and demo projects for evaluation purpose. Please check them out and you are welcome to contact me at hello@calvin-c.com.
 
