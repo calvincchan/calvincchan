@@ -1,5 +1,7 @@
 # Hello, I am Calvin C. Chan.
 
+You can visit my personal site for more information: https://calvincchan.com
+
 This git maintains my latest resume and demo projects for evaluation purpose.
 
 Resume:
@@ -11,4 +13,4 @@ Projects:
 - [Moneybook frontend](https://github.com/calvincchan/money-book-webapp)
 - [Lambda function to invoke Stripe charge request](https://github.com/calvincchan/stripe-charge)
 
-Last updated: 2023-Mar-13
+Last updated: 2023-Mar-30
