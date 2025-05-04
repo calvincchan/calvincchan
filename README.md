@@ -1,4 +1,4 @@
-# Hello, I am Calvin C. Chan.
+# Hello, I am Calvin C. Chan 👋
 
 Thank you for visiting my GitHub home. For more updates and latest blog posts, please visit my personal site at https://calvincchan.com
 
